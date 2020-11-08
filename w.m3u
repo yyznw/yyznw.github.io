@@ -170,13 +170,10 @@ http://192.168.2.1:9988/rtp/239.45.1.52:5140
 http://hdtv.haust.edu.cn/hls/cetv3.m3u8
 
 #EXTINF:-1,中国教育-4
-http://hdtv.haust.edu.cn/hls/cetv4.m3u8
+http://192.168.2.1:9988/rtp/239.45.1.50:5140
 
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg",中数早期教育
 http://hdtv.haust.edu.cn/hls/hls25.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",空中课堂
-http://192.168.2.1:9988/rtp/239.45.1.50:5140
 
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
 http://192.168.2.1:9988/rtp/239.45.3.178:5140
