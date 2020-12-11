@@ -103,7 +103,7 @@ http://192.168.2.1:9988/rtp/239.45.3.28:5140#http://192.168.2.1:9988/rtp/239.45.
 http://192.168.2.1:9988/rtp/239.45.1.69:5140#http://192.168.2.1:9988/rtp/239.45.3.54:5140
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央频道",CCTV-5+体育赛事
-http://hdtv.haust.edu.cn/hls/cctv5phd.m3u8
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000018504/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000018504&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000018504&owchid=ystenlive&owsid=2404381598893548427&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYS3jMtBg12ZR6Jdaa2IIvw1eRZkzOvOKWsOgrFwghkE4VK9L9AZHVG9jMAPznwwkT
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央频道",CCTV6电影
 http://192.168.2.1:9988/rtp/239.45.1.70:5140
