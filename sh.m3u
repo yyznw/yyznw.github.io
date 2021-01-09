@@ -365,7 +365,7 @@ http://hdtv.haust.edu.cn/hls/chcatv.m3u8
 http://hdtv.haust.edu.cn/hls/fhzw.m3u8
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="其他频道",凤凰资讯
-http://hdtv.haust.edu.cn/hls/fhzx.m3u8
+http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="其他频道",凤凰电影台
 http://hdtv.haust.edu.cn/hls/fhdy.m3u8
