@@ -57,7 +57,7 @@ http://192.168.2.1:9988/rtp/239.45.1.119:5140#http://192.168.2.1:9988/rtp/239.45
 #EXTINF:-1 group-title="上海频道",上海纪实
 http://192.168.2.1:9988/rtp/239.45.1.103:5140
 
-#EXTINF:-1 group-title="上海频道",七彩戏剧
+#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海频道",七彩戏剧
 http://192.168.2.1:9988/rtp/239.45.3.61:5140#http://192.168.2.1:9988/rtp/239.45.1.112:5140
 
 #EXTINF:-1 group-title="上海频道",法治天地
@@ -169,7 +169,7 @@ http://192.168.2.1:9988/rtp/239.45.1.52:5140
 #EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B23%E5%8F%B0.png" group-title="中央频道",中国教育-3
 http://[2001:250:5405:13::47]/hls/cetv3.m3u8
 
-#EXTINF:-1 group-title="中央频道",中国教育-4
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png" group-title="中央频道",中国教育-4
 http://192.168.2.1:9988/rtp/239.45.1.50:5140
 
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="中央频道",中数早期教育
@@ -307,7 +307,7 @@ http://192.168.2.1:9988/rtp/239.45.3.18:5140
 #EXTINF:-1 group-title="各地卫视",足球频道
 http://192.168.2.1:9988/rtp/239.45.3.22:5140
 
-#EXTINF:-1 group-title="各地卫视",未知台标频道
+#EXTINF:-1 group-title="上海频道",松江频道
 http://192.168.2.1:9988/rtp/239.45.1.40:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",东方购物-1HD
