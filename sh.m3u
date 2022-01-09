@@ -103,7 +103,7 @@ http://192.168.2.1:9988/rtp/239.45.3.28:5140#http://192.168.2.1:9988/rtp/239.45.
 http://192.168.2.1:9988/rtp/239.45.1.69:5140#http://192.168.2.1:9988/rtp/239.45.3.54:5140
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央频道",CCTV-5+体育赛事
-http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls73a6.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央频道",CCTV6电影
 http://192.168.2.1:9988/rtp/239.45.1.70:5140
