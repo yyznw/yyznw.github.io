@@ -154,7 +154,7 @@ http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
 http://hdtv.haust.edu.cn/hls/hls184a515.m3u8
 
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="中央频道",CCTV女性时尚
-http://hdtv.haust.edu.cn/hls/hls184a522.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
 
 
 #EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="中央频道",中数央视精品
@@ -351,36 +351,3 @@ http://192.168.2.1:9988/rtp/239.45.3.79:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",家有购物
 http://192.168.2.1:9988/rtp/239.45.1.43:5140
-
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="其他频道",CHC高清电影
-http://hdtv.haust.edu.cn/hls/hls260.m3u8
-
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="其他频道",CHC家庭电影
-http://hdtv.haust.edu.cn/hls/hls259.m3u8
-
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="其他频道",CHC动作电影
-http://hdtv.haust.edu.cn/hls/hls261.m3u8
-
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="其他频道",凤凰中文
-http://hdtv.haust.edu.cn/hls/hls254.m3u8
-
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="其他频道",凤凰资讯
-http://hdtv.haust.edu.cn/hls/hls255.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="其他频道",凤凰电影台
-http://hdtv.haust.edu.cn/hls/fhzw.m3u8
-
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="其他频道",探索频道
-http://hdtv.haust.edu.cn/hls/discovery.m3u8
-
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="其他频道",国家地理频道
-http://hdtv.haust.edu.cn/hls/natlgeo.m3u8
-
-#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="其他频道",CHANNEL[V]
-http://hdtv.haust.edu.cn/hls/channelv.m3u8
-
-#EXTINF:-1 tvg-id="511" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="其他频道",星空卫视
-http://hdtv.haust.edu.cn/hls/startv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他频道",星空体育
-http://hdtv.haust.edu.cn/hls/starsports.m3u8
