@@ -351,3 +351,40 @@ http://192.168.2.1:9988/rtp/239.45.3.79:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",家有购物
 http://192.168.2.1:9988/rtp/239.45.1.43:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",一年级
+http://192.168.2.1:9988/rtp/239.45.1.28:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",二年级
+http://192.168.2.1:9988/rtp/239.45.1.29:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",三年级
+http://192.168.2.1:9988/rtp/239.45.1.30:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",四年级
+http://192.168.2.1:9988/rtp/239.45.1.31:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",五年级
+http://192.168.2.1:9988/rtp/239.45.1.32:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",六年级
+http://192.168.2.1:9988/rtp/239.45.1.33:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",七年级
+http://192.168.2.1:9988/rtp/239.45.1.34:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",八年级
+http://192.168.2.1:9988/rtp/239.45.1.35:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",九年级
+http://192.168.2.1:9988/rtp/239.45.1.36:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",高一年级
+http://192.168.2.1:9988/rtp/239.45.1.37:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",高二年级
+http://192.168.2.1:9988/rtp/239.45.1.38:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",高三年级
+http://192.168.2.1:9988/rtp/239.45.1.39:5140
+
