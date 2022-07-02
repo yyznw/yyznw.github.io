@@ -106,7 +106,7 @@ http://192.168.2.1:9988/rtp/239.45.1.69:5140#http://192.168.2.1:9988/rtp/239.45.
 http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdcctv05plus/.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6电影
-http://192.168.2.1:9988/rtp/239.45.3.30:5140
+http://192.168.2.1:9988/rtp/239.45.1.70:5140
 
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7国防军事
 http://192.168.2.1:9988/rtp/239.45.3.56:5140
