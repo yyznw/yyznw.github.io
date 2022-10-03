@@ -136,11 +136,10 @@ http://192.168.2.1:9988/rtp/239.45.3.23:5140
 http://192.168.2.1:9988/rtp/239.45.1.200:5140#http://192.168.2.1:9988/rtp/239.45.3.39:5140
 
 #EXTINF:-1 tvg-id="7249" tvg-name="cctv16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央频道",CCTV奥林匹克频道
-http://[2409:8087:3000:23:0:3::110A]:8112/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
-CCTV17FHD,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-17hd/1.m3u8
+http://192.168.2.1:9988/rtp/239.45.0.11:5140
 
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中央频道",CCTV-17农村农业
-http://192.168.2.1:9988/rtp/239.45.3.1:5140
+http://192.168.2.1:9988/rtp/239.45.3.52:5140
 
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央频道",CGTN
 http://192.168.2.1:9988/rtp/239.45.1.194:5140#http://192.168.2.1:9988/rtp/239.45.3.33:5140
