@@ -106,7 +106,7 @@ http://192.168.2.1:9988/rtp/239.45.1.69:5140#http://192.168.2.1:9988/rtp/239.45.
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8#http://140.207.241.2:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央频道",CCTV6电影
-http://192.168.2.1:9988/rtp/239.45.3.30:5140
+http://192.168.2.1:9988/rtp/239.45.1.70:5140
 
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中央频道",CCTV7国防军事
 http://192.168.2.1:9988/rtp/239.45.3.56:5140
