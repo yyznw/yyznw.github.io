@@ -97,7 +97,7 @@ http://192.168.2.1:9988/udp/239.45.3.189:5140
 http://192.168.2.1:9988/rtp/239.45.1.68:5140
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中央频道",CCTV4中文国际
-http://192.168.2.1:9988/rtp/239.45.3.28:5140#http://192.168.2.1:9988/rtp/239.45.3.190:5140
+http://192.168.2.1:9988/rtp/239.45.0.2:5140
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中央频道",CCTV-5体育
 http://192.168.2.1:9988/rtp/239.45.1.69:5140#http://192.168.2.1:9988/rtp/239.45.3.54:5140
