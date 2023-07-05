@@ -16,7 +16,7 @@ http://192.168.2.1:9988/rtp/239.45.3.247:5140
 http://192.168.2.1:9988/rtp/239.45.3.237:5140
 
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海频道",第一财经
-http://192.168.2.1:9988/rtp/239.45.3.13:5140
+http://192.168.2.1:9988/rtp/239.45.3.211:5140
 
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海频道",五星体育
 http://192.168.2.1:9988/rtp/239.45.3.210:5140
@@ -33,7 +33,7 @@ http://192.168.2.1:9988/rtp/239.45.3.136:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海频道",欢笑剧场
 http://192.168.2.1:9988/rtp/239.45.3.196:5140
 
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海频道",全纪实
+#EXTINF:-1 tvg-id="1976" tvg-name="乐游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海频道",全纪实
 http://192.168.2.1:9988/rtp/239.45.3.135:5140
 
 #EXTINF:-1 group-title="上海频道",动漫秀场
@@ -49,16 +49,16 @@ http://192.168.2.1:9988/rtp/239.45.3.131:5140
 http://192.168.2.1:9988/rtp/239.45.3.49:5140
 
 #EXTINF:-1 group-title="上海频道",教育台
-http://192.168.2.1:9988/rtp/239.45.1.106:5140
+http://192.168.2.1:9988/rtp/239.45.0.13:5140
 
 #EXTINF:-1 group-title="上海频道",东方财经
-http://192.168.2.1:9988/rtp/239.45.1.119:5140#http://192.168.2.1:9988/rtp/239.45.3.192:5140
+http://192.168.2.1:9988/rtp/239.45.0.17:5140
 
 #EXTINF:-1 group-title="上海频道",上海纪实
 http://192.168.2.1:9988/rtp/239.45.1.103:5140
 
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海频道",七彩戏剧
-http://192.168.2.1:9988/rtp/239.45.3.61:5140#http://192.168.2.1:9988/rtp/239.45.1.112:5140
+http://192.168.2.1:9988/rtp/239.45.0.16:5140
 
 #EXTINF:-1 group-title="上海频道",法治天地
 http://192.168.2.1:9988/rtp/239.45.1.46:5140
@@ -121,13 +121,13 @@ http://192.168.2.1:9988/udp/239.45.3.4:5140
 http://192.168.2.1:9988/rtp/239.45.3.8:5140
 
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中央频道",CCTV11戏曲
-http://192.168.2.1:9988/rtp/239.45.3.35:5140
+http://192.168.2.1:9988/rtp/239.45.0.18:5140
 
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中央频道",CCTV12社会与法
-http://192.168.2.1:9988/rtp/239.45.3.36:5140
+http://192.168.2.1:9988/rtp/239.45.3.10:5140
 
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中央频道",CCTV13新闻
-http://192.168.2.1:9988/rtp/239.45.3.37:5140
+http://192.168.2.1:9988/rtp/239.45.0.19:5140
 
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中央频道",CCTV14少儿
 http://192.168.2.1:9988/rtp/239.45.3.23:5140
@@ -135,7 +135,7 @@ http://192.168.2.1:9988/rtp/239.45.3.23:5140
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中央频道",CCTV15音乐
 http://192.168.2.1:9988/rtp/239.45.1.200:5140#http://192.168.2.1:9988/rtp/239.45.3.39:5140
 
-#EXTINF:-1 tvg-id="7249" tvg-name="cctv16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央频道",CCTV奥林匹克频道
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央频道",CCTV奥林匹克频道
 http://192.168.2.1:9988/rtp/239.45.0.10:5140
 
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中央频道",CCTV-17农村农业
@@ -280,7 +280,7 @@ http://192.168.2.1:9988/rtp/239.45.1.82:5140
 http://192.168.2.1:9988/rtp/239.45.1.251:5140
 
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="各地卫视",金鹰卡通
-http://192.168.2.1:9988/rtp/239.45.3.118:5140#http://192.168.2.1:9988/rtp/239.45.3.119:5140
+http://192.168.2.1:9988/rtp/239.45.3.119:5140
 
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="各地卫视",嘉佳卡通
 http://192.168.2.1:9988/rtp/239.45.1.48:5140
